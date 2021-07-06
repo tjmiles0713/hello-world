@@ -1,2 +1,3 @@
 # hello-world
 Store ideas and resources
+Today is the First day of Java Trainin........
