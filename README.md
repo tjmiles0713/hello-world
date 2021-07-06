@@ -1,3 +1,7 @@
 # hello-world
-Store ideas and resources
+
+I'm Trent J. Miles
+This is my first day working on my prereqs.
+
+Thanks!
 
